@@ -1,0 +1,2 @@
+"0","gtsummary::tbl_summary(train_daily) |> "
+"0","  modify_caption(""Table 1. Summary table showing the median and the 25th, 75th percentile and the number of missing values."")"

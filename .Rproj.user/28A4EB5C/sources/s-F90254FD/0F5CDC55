@@ -1,0 +1,29 @@
+{
+    "id": "0F5CDC55",
+    "path": "~/Desktop/STAT 5010/Final-Project_STAT5010/Final-Project_Zeigler.Rmd",
+    "project_path": "Final-Project_Zeigler.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1647270111317.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "746,22",
+        "scrollLine": "741",
+        "last_setup_crc32": "",
+        "chunk_output_type": "console # switch to 'inline' if preferred"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1651507844,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651507844692,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,3 @@
+"0","daily_data_scaled <- scale(daily_data[,2:11]) |> "
+"0","  bind_cols(date = daily_data$date) |>"
+"0","  relocate(date, .before = 1)"

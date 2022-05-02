@@ -1,0 +1,7 @@
+"0","set.seed(123)"
+"0","train_daily <- sample_n(daily_data_scaled, 0.8*nrow(daily_data))"
+"0","test_daily <- anti_join(daily_data_scaled, train_daily)"
+"1","[38;5;252mJoining, by = c(""date"", ""mins_daily"", ""danceability_daily"", ""energy_daily"", ""loudness_daily"",
+""acousticness_daily"", ""instrumentalness_daily"", ""liveness_daily"", ""valence_daily"", ""tempo_daily"",
+""steps_daily"")[39m
+"

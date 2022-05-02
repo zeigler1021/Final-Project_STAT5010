@@ -1,0 +1,4 @@
+"0","rm(spotify_raw)"
+"0","rm(spotify_daily)"
+"0","rm(steps)"
+"0","rm(audio_features)"
